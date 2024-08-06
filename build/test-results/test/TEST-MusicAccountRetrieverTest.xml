@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MusicAccountRetrieverTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-06T18:14:07" hostname="ENOCK" time="0.056">
+  <properties/>
+  <testcase name="retrieveAccounts_retrievingResults_correctResults()" classname="MusicAccountRetrieverTest" time="0.056"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
